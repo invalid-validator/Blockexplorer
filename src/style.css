@@ -22,8 +22,8 @@ body {
 
 :root {
   --text-main: #333;
-  --text-secondary: #4b525d;
-  --bg-active: #fbfbfc;
+  --text-secondary: #6f6e84;
+  --bg-active: #242b40;
 }
 
 html.dark,
