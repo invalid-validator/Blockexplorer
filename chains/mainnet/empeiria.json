@@ -4,7 +4,8 @@
     "api": [
 
         {"provider": "Indonode", "address": "https://api.empe-t.indonode.net"}
-        {"provider": "Polkachu", "address": "https://empe-testnet-api.polkachu.com"}
+
+
 
     ],
     "rpc": [
