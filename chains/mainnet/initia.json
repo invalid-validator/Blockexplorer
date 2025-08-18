@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "6000",
     "addr_prefix": "init",
-    "logo": "https://raw.githubusercontent.com/initia-labs/initia-registry/main/testnets/initia/images/INIT.svg",
+    "logo": "/logos/initia.png",
     "theme_color": "#8e92a1",
     "assets": [{
         "base": "uinit",
