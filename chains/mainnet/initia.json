@@ -7,7 +7,7 @@
     "coin_type": "118",
     "min_tx_fee": "6000",
     "addr_prefix": "init",
-    "logo": "/logos/initia.png",
+    "logo": "/public/logos/initia.png",
     "theme_color": "#8e92a1",
     "assets": [{
         "base": "uinit",
